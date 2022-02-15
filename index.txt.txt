@@ -1,1 +1,2 @@
-git ten yazdım
+git ten yazdım, 
+git hub dan yazdim
